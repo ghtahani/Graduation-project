@@ -1,0 +1,32 @@
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\RemoteMontring\bin\Debug\RemoteMontring.exe.config
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\RemoteMontring\bin\Debug\RemoteMontring.exe
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\RemoteMontring\bin\Debug\RemoteMontring.pdb
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\RemoteMontring\obj\Debug\RemoteMontring.csprojResolveAssemblyReference.cache
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\RemoteMontring\obj\Debug\RemoteMontring.Properties.Resources.resources
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\RemoteMontring\obj\Debug\RemoteMontring.csproj.GenerateResource.Cache
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\RemoteMontring\obj\Debug\RemoteMontring.exe
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\RemoteMontring\obj\Debug\RemoteMontring.pdb
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\RemoteMontring\bin\Debug\Doctor.mdf
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\RemoteMontring\bin\Debug\Doctor_log.ldf
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\RemoteMontring\obj\Debug\RemoteMontring.doctor.resources
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\RemoteMontring\obj\Debug\RemoteMontring.Form2.resources
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\RemoteMontring\obj\Debug\RemoteMontring.RemoteSystem.resources
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\RemoteMontring\obj\Debug\RemoteMontring.Patient.resources
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\RemoteMontring\bin\Debug\Data.mdf
+C:\Users\tahani\Downloads\Gradution project\project by c#\RemoteMontring\RemoteMontring\bin\Debug\Data_log.ldf
+C:\Users\tahani\Downloads\Gradution project\project by c#\for online code\RemoteMontring\bin\Debug\RemoteMontring.exe.config
+C:\Users\tahani\Downloads\Gradution project\project by c#\for online code\RemoteMontring\obj\Debug\RemoteMontring.exe
+C:\Users\tahani\Downloads\Gradution project\project by c#\for online code\RemoteMontring\obj\Debug\RemoteMontring.pdb
+C:\Users\tahani\Downloads\Gradution project\project by c#\for online code\RemoteMontring\bin\Debug\Data.mdf
+C:\Users\tahani\Downloads\Gradution project\project by c#\for online code\RemoteMontring\bin\Debug\Data_log.ldf
+C:\Users\tahani\Downloads\Gradution project\project by c#\for online code\RemoteMontring\bin\Debug\Doctor.mdf
+C:\Users\tahani\Downloads\Gradution project\project by c#\for online code\RemoteMontring\bin\Debug\Doctor_log.ldf
+C:\Users\tahani\Downloads\Gradution project\project by c#\for online code\RemoteMontring\bin\Debug\RemoteMontring.exe
+C:\Users\tahani\Downloads\Gradution project\project by c#\for online code\RemoteMontring\bin\Debug\RemoteMontring.pdb
+C:\Users\tahani\Downloads\Gradution project\project by c#\for online code\RemoteMontring\obj\Debug\RemoteMontring.csprojResolveAssemblyReference.cache
+C:\Users\tahani\Downloads\Gradution project\project by c#\for online code\RemoteMontring\obj\Debug\RemoteMontring.doctor.resources
+C:\Users\tahani\Downloads\Gradution project\project by c#\for online code\RemoteMontring\obj\Debug\RemoteMontring.Patient.resources
+C:\Users\tahani\Downloads\Gradution project\project by c#\for online code\RemoteMontring\obj\Debug\RemoteMontring.RemoteSystem.resources
+C:\Users\tahani\Downloads\Gradution project\project by c#\for online code\RemoteMontring\obj\Debug\RemoteMontring.Form2.resources
+C:\Users\tahani\Downloads\Gradution project\project by c#\for online code\RemoteMontring\obj\Debug\RemoteMontring.Properties.Resources.resources
+C:\Users\tahani\Downloads\Gradution project\project by c#\for online code\RemoteMontring\obj\Debug\RemoteMontring.csproj.GenerateResource.Cache
